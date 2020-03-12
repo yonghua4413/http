@@ -1,0 +1,17 @@
+{
+    "name": "yonghua4413/http",
+    "description": "http client",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yonghua4413",
+            "email": "254274509@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Http\\": "src/"
+        }
+    },
+    "require": {}
+}
